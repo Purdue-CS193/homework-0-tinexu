@@ -15,11 +15,15 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+Three things I love about CS193!!!
+- The people!!
+- The magic words :)
+- The way that the lectures are structured and explained
 
-1. Numbered
-2. List
+Three things I love about CS193!!! (numbered list version)
+1. The people!!
+2. The magic words :)
+3. The way that the lectures are structured and explained
 
 **Bold** and _Italic_ and `Code` text
 
