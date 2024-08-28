@@ -12,8 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Christine's First CS193 Homework
-## Header 2
-### Header 3
+## Yayyyy
+### Slayed :)
 
 Three things I love about CS193!!!
 - The people!!
@@ -25,7 +25,9 @@ Three things I love about CS193!!! (numbered list version)
 2. The magic words :)
 3. The way that the lectures are structured and explained
 
-**Bold** and _Italic_ and `Code` text
+**Bold text!**
+_Italic text!_
+`Code` text
 
 [Link](url) and ![Image](src)
 ```
